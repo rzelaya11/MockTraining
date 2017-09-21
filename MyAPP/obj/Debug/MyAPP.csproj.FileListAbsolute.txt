@@ -1,0 +1,9 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\MyAPP.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\MyAPP.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\MyAPP.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\obj\Debug\MyAPP.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\obj\Debug\MyAPP.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\Castle.Core.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\Moq.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\Moq.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\MyAPP\MyAPP\bin\Debug\Moq.xml
